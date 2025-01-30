@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/root/miniconda3/envs/exercicios/bin/python",
+    "python.languageServer": "Pylance"
+}
