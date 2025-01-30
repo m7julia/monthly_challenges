@@ -23,12 +23,6 @@ Este curso oferece uma introdução completa ao desenvolvimento web com **Python
 
 ---
 
-## 🛠️ Objetivo
-
-O objetivo deste curso é fornecer as ferramentas necessárias para criar **aplicações web** de forma eficiente com Django. Ao final do curso, os alunos estarão aptos a construir **websites e aplicativos** completos e prontos para produção.
-
----
-
 ## 👩‍💻 Como Usar Este Repositório
 
 Para executar o projeto localmente:
@@ -64,5 +58,6 @@ Agora, você pode acessar a aplicação em `http://127.0.0.1:8000/` no seu naveg
 - O Django pode ser instalado em um ambiente virtual para evitar conflitos com outras bibliotecas.
 - Esse repositório contém o código do projeto desenvolvido durante o curso, com todas as funcionalidades demonstradas nas aulas.
 
+---
 
 🚀 Happy Coding! 🎉
